@@ -3,7 +3,6 @@
 from random import choice
 example_words=["harsh","sharma","01031956","mumbai","iitbombay"]
 import string
-symbol=choice(list(string.punctuation))
 example_limit=8
 temp=None
 new_example=[]
